@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b3968ac-0c3d-4b46-a9f0-582a1f3edf9f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-stdin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-read_file.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-read_file_async.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-http.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-http.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6-http_express.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7-http_express.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/babel.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database.csv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x05-Node_JS_basic/0-console.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x05-Node_JS_basic/0-console.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x05-Node_JS_basic/1-stdin.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x05-Node_JS_basic/1-stdin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x05-Node_JS_basic/7-http_express.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x05-Node_JS_basic/7-http_express.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x05-Node_JS_basic/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x05-Node_JS_basic/babel.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +74,8 @@
       <workItem from="1709065677996" duration="860000" />
       <workItem from="1709067050381" duration="57000" />
       <workItem from="1709067121210" duration="587000" />
-      <workItem from="1709068973926" duration="1079000" />
+      <workItem from="1709068973926" duration="1472000" />
+      <workItem from="1709107746718" duration="27000" />
     </task>
     <servers />
   </component>
